@@ -9,6 +9,8 @@ This site is just a list of assignments...
 
 * [Terminal 1](terminal_1)
 
+* [HTML CSS Intro](html_css_1)
+
 * [Portfolio 1](portfolio_1)
 * [Portfolio 2](portfolio_2)
 
