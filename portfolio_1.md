@@ -98,11 +98,6 @@ Use the `touch` command to create the following files:
 Then create one more directory with the `mkdir` command named
 `images`.
 
-- create html file... index.html
-- create styles folder
-- create images folder
-- create css file main.css IN your styles folder
-
 Your file structure should now look like this:
 ```
 CoderGirl/

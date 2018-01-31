@@ -6,7 +6,7 @@ permalink: /portfolio_2
 # Practicing HTML/CSS with Your Portfolio Project
 
 ### Intro
-Let's apply what we learned from the first CodeSchool HTML/CSS course...
+Let's apply what we learned from the first HTML/CSS courses...
 
 We are going to make some more edits to your portfolio project... here is the wireframe of what your result should look like:
 
