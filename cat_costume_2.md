@@ -8,7 +8,7 @@ permalink: /cat_costume_2
 ### Intro
 Now you are going to work on making the Cat Project Responsive.
 
-You will do this by, taking one level of the Journey into Mobile course (on CodeSchool) and then applying that level to your Cat Project.
+note: if you haven't already taken the Udacity Responsive course yet, it's okay. There are prompts below to indicate which lessons you should complete in order to complete the challenges.
 
 Before you start make sure you have used git and committed the latest version of your Cat Project. You want to maintain the desktop state in case things get screwed up here.
 
@@ -19,40 +19,33 @@ Also add the below viewport meta element in your html's <head></head>. This is a
 ```
 
 
+### Goal
 
-#### Challenge 1: Take Level One.
+So the Udacity course goes into A LOT of detail about responsive websites. Our goal for this Cat Project is to just make it look good on all screen sizes and by the time the screen width reaches mobile, it should match the mobile design.
 
-[CodeSchool Journey Into Mobile](https://www.codeschool.com/courses/journey-into-mobile)
-
-
-
-#### Challenge 2: Responsive Fonts
-
-So we aren't actually going to use any responsive units for our fonts in the Cat Costume website... I can explain why in CG Wednesday... but basically there are 3 types of units (px, em, rem). I will explain the difference in class someday.
+The Udacity course talks about starting with the mobile version and making your website expand as you move up to bigger devices. But since we have already programmed the desktop version, we are going to do that opposite. Start with bigger screens and work down to the mobile size.
 
 
+#### Course Material for Challenge 1
 
-#### Challenge 3: Take Level Two
-
-[CodeSchool Journey Into Mobile](https://www.codeschool.com/courses/journey-into-mobile)
-
+[Take Udacity Responsive Lesson 1 and 2](https://classroom.udacity.com/courses/ud893)
 
 
-#### Challenge 4: Fluid Layout
+#### Challenge 1: Fluid Layout & Responsive Widths
 
-Now you should go ahead and start changing widths from fixed px units to relative percent units. This will NOT BE ALL divs or html elements. For example, you probably want the about boxes or the Get In Touch boxes to keep a certain fixed sized. But use your own discretion on what looks good. You definitely want each of the html sections to span the whole browser width.
+Now you should go ahead and start changing widths from fixed px units to relative percent units. This will NOT BE ALL divs or html elements. For example, you probably want the about boxes or the Get In Touch boxes to keep a certain fixed sized. But use your own discretion on what looks good. You definitely want each of the html sections to span the whole browser width. Also keep in mind you can use max-width and min-width.
 
 Remember you can use both `width: 80%;` and `max-width:400px;` together. This would keep the element at 80% it's container's width, but will not ever get bigger than 400px.
 
 
+#### Course Material for Challenge 2
 
-#### Challenge 5: Take Level Three & Four
+[Take Udacity Responsive Lesson 3](https://classroom.udacity.com/courses/ud893)
 
-[CodeSchool Journey Into Mobile](https://www.codeschool.com/courses/journey-into-mobile)
+In this lesson you will learn about media queries and a little about Flexbox. However, they briefly cover flexbox. We have more material on that later. So don't worry if you don't understand it the first time around.
 
 
-
-#### Challenge 6: Make Your Site Responsive (Not Really Adaptive)
+#### Challenge 2: Use Media Queries to Help with "Breaks"
 
 In today's world, we rarely make sites just adaptive. Usually we want the site to look good on ALL device and don't usually target just one particular device and screen size. This means we want our site to be RESPONSIVE.
 
@@ -113,21 +106,6 @@ Now go ahead and fix the css you need to inside the media query you wrote in the
 **STEP 4: Repeat for all Breaks in Your site**
 
 Repeat this process for all your sections. Keep incrementally resizing your browser to find breaks, add media queries and styles to fix those breaks. When you are done, your site should look good on ALL browsers and devices.
-
-
-
-#### Challenge 8: Take Level 5
-
-[CodeSchool Journey Into Mobile](https://www.codeschool.com/courses/journey-into-mobile)
-
-
-
-#### Challenge 9: Ehh, not that Important
-
-Most of the last level isn't important for you now, like changing out 1x to 2x images. If you haven't already, fix the splash (batman cat) image and the maps image to be fluid and respond to the width of the browser.
-
-
-MOST IMPORTANTLY! COMMIT ALL YOUR GOOD RESPONSIVE CHANGES WITH GIT SO YOU DON'T LOSE THAT STUFF! That is all. Great Work.
 
 
 
