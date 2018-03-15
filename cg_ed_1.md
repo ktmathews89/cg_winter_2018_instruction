@@ -5,10 +5,34 @@ permalink: /cg_ed_1
 
 # CG Education - Javascript Part I
 
-### Intro
-Now that you have taken Javascript Part I, let's do a little bit of practicing with our CG Education Project (the project you should have completed with Flexbox).
+### Part I - learning a little javascript
+We are going to use the nodeschool.io for our first javascript course. So follow the setup instructions on the site... and if you are confused, definitely reach out to a mentor.
 
-To start, go ahead and open your terminal, navigate to that project, and make sure all your work is committed with git. Now open the project directory with your text editor and let's begin!
+[NodeSchool.io Javascripting](https://github.com/workshopper/javascripting)
+
+
+#### Challenge 1: Learning Variables and some Data Types
+Before you continue to Part II, complete the below challenges in the nodeschool.io course:
+
+INTRODUCTION through NUMBER TO STRING
+
+So basically stop at FOR LOOP challenge...
+
+
+#### Challenge 2: Web Dev Tools and Javascript
+
+Just like you can use Web Dev Tools to debug your HTML and CSS, you can also use it for javascript. To learn more, let's revisit the Web Dev Tools Course at CodeSchool.
+
+Just complete LEVEL 3 - Console.
+
+[CodeSchool Web Dev Course - Level 3](http://discover-devtools.codeschool.com/chapters/3)
+
+
+
+### Part II - practicing a little javascript
+Now that you have learned a little, let's practice with our CG Education Project (the project you should have completed with Flexbox).
+
+To start, go ahead and open your terminal, navigate to that project, and make sure all your work is committed with git. Now open the project directory in your text editor and let's begin!
 
 
 
@@ -30,7 +54,7 @@ To test, open your index.html in a browser, open your web dev tools, click on th
 
 #### Challenge 2: Playing with Variables.
 
-In the CodeSchool course, you should have learned how to create and use variables... like  
+In your course, you should have learned how to create and use variables... like  
 ```
 var name = "value";
 ```
@@ -83,4 +107,4 @@ After you create the variables... create nice print statements :)
 
 
 
-THE END. Now you are ready to learn some more Javascript... back to CodeSchool!!
+THE END. Now you are ready to learn some more Javascript... onto the next Javascript Challenge!!
