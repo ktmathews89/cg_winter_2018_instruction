@@ -24,6 +24,8 @@ This site is just a list of assignments...
 * [CG Education - JS 2](cg_ed_2)
 * [CG Education - JS 3](cg_ed_3)
 
+* [JS Extra Resources - for JS 2](js_extra_resources)
+
 * [jQuery AJAX](jQuery_ajax)
 * [CG Education - FINAL](cg_ed_final)
 
