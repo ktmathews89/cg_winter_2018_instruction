@@ -6,7 +6,7 @@ permalink: /cg_ed_2
 # CG Education - Javascript Part II
 
 ### Intro
-You learned a lot in the second Javascript course... loops, arrays, conditionals, function... wow. that was a lot. This assignment will hopefully help you make a little more sense of it all.
+You learned a lot since our last challenge... loops, arrays, conditionals, function... wow. This assignment will hopefully help you make a little more sense of it all.
 
 To start, go ahead and open your terminal, navigate to that project, and make sure all your work from the last CG Education JS Practice is committed with git. Now open the project directory with your text editor and let's begin!
 
@@ -50,6 +50,8 @@ This function should add the new rating to the ratings array and return the arra
 Now time to put all the pieces together...
 create a prompt that asks the user to review a teacher... the prompt should say..
 
+> if you don't know what a prompt is look to [this](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) resource for help
+
 "We would like for you to review <teacher name>. Please enter a rating between 0.0 - 5.0?"
 
 note: make sure you store that value in a variable so you can use the users response...
@@ -79,6 +81,7 @@ You want your courses array to look like this...
 ```
 course will be an array filled with courses and each course is an array with index 0 being a course title and index 1 being the department the course is associated with.
 
+[Here](http://www.dyn-web.com/javascript/arrays/multidimensional.php) is a good resource for accessing elements in a nested array.
 
 **STEP 2: Create a function that filters course by departments**
 
@@ -94,7 +97,7 @@ Create another prompt. (also you might have to comment the other prompt out, so 
 1) check that the user entered a valid department name...
 2) if they did not, prompt them again...
 3) if they did, use the function you create above to filter the course list
-4) AND alert back to the user the course titles that they can choose from.
+4) AND alert (the js function like prompt) back to the user the course titles that they can choose from.
 
 
 ### Continue...
