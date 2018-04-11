@@ -33,6 +33,7 @@ This site is just a list of assignments...
 
 * [Portfolio Site](portfolio_reqs)
 
+* [Race To Shore](race_to_shore)
 
 ## Other Resources
 
