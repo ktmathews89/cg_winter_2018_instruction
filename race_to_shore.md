@@ -10,7 +10,7 @@ This in-class challenge is to help you think about objects. How to create them, 
 
 To start, follow the below link to the github project, FORK and CLONE to you local computer.
 
-[GitHub Race To Shore Starter Template]()
+[GitHub Race To Shore Starter Template](https://github.com/ktmathews89/race_to_shore)
 
 > To fork and clone the project, first navigate to the link.
 
@@ -160,7 +160,7 @@ Okay. Let's Test!
 
 ### Run It
 
-The buttons that display in html browser, should be connected to your code. So open the index.html in a browser. Open the console log. And click the Run Race button. 
+The buttons that display in html browser, should be connected to your code. So open the index.html in a browser. Open the console log. And click the Run Race button.
 
 Do you get what you expect in the console?
 Does your racer finish the race?
