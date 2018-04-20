@@ -35,6 +35,8 @@ This site is just a list of assignments...
 
 * [Race To Shore](race_to_shore)
 
+* [Problem Solving Framework](problem_solving_framework)
+
 ## Other Resources
 
 * [Style Guide](style_guide)
