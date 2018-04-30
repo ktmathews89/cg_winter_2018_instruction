@@ -4,6 +4,10 @@
 
 This site is just a list of assignments...
 
+## Lesson Maps
+
+1) [1st Cohort 2018 - Lesson Map](1_2018_lesson_map)
+2) [2nd Cohort 2018 - Lesson Map](2_2018_lesson_map)
 
 ## Assignments
 
@@ -34,6 +38,7 @@ This site is just a list of assignments...
 * [Portfolio Site](portfolio_reqs)
 
 * [Race To Shore](race_to_shore)
+* [Race To Shore 2](race_to_shore)
 
 * [Problem Solving Framework](problem_solving_framework)
 
