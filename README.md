@@ -30,6 +30,7 @@ This site is just a list of assignments...
 
 * [JS Extra Resources - for JS 2](js_extra_resources)
 
+* [jQuery Paint A Box Challenge](jQuery_paint_box)
 * [jQuery AJAX](jQuery_ajax)
 * [CG Education - FINAL](cg_ed_final)
 
