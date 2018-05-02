@@ -1,6 +1,6 @@
 ---
 title: Computer Setup
-permalink: /1_2018/1.0_computer_setup
+permalink: /1_2018/lesson_1/1.0_computer_setup
 ---
 
 # Computer Setup
