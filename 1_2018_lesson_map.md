@@ -119,3 +119,23 @@ _css inheritance (In Class)_
 **8.1 Learning Javascript Objects - Part 4**
 
 **8.2 CG Education - Part III**
+
+**8.3 Debugging Javascript (In Class)**
+
+description: In class walk through of how to step through your javascript code and figure out what is happening when and inspecting the exact value of variables.
+
+content: [Debugging JS](1_2018/in_class/debugging_js)
+
+### Lesson 9
+
+**9.1 Learning jQuery**
+
+description:
+
+content: []()
+
+**9.2 Paint-a-Box Challenge (jquery challenge)**
+
+description:
+
+content: [Paint-a-Box Challenge](/1_2018/lesson_9/2_paint_box)
