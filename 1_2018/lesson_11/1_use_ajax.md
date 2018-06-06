@@ -1,51 +1,18 @@
 ---
-title: Learn Ajax
-permalink: /1_2018/lesson_11/0_learn_ajax
+title: Use Ajax
+permalink: /1_2018/lesson_11/1_use_ajax
 ---
 
-# Learn AJAX Lesson
+# Using AJAX
 
-AJAX sending and receiving data
+Now you should know:
+* AJAX is used to retrieve data from a url
+* the data is usually formatted with JSON
+* we can just the jquery `$.get()` function to retrieve data from a url and do something with it
 
-Up until now, we have been using data that we hard coded (students information) in our javascript file.
+YAY! Let get to it.
 
-In real
-
-API what is it?
-
-    * data endpoint
-    * send REQUEST (address: url, other information: info in regards to what data you want back)
-    * receive RESPONSE (success/error, data)
-
-
-JSON
-
-* data structure
-    so far, we have been using javascript objects or arrays to organize the data our website uses
-    JSON is another way we can do that
-
-Javascript Object Literal
-```
-{
-    id: 1,
-    name: Tasha,
-}
-```
-
-JSON
-```
-{
-    'id': '1',
-    'name': 'Tasha'
-}
-```
-
-So similar, why not use Javascript Objects?
-
-Backends or API endpoint (where your API request is directed to)... could be receiving your request in a lot of different language. A regular javascript object might not translate to a different language and therefore unable to be read.
-
-JSON can be used in A LOT of different languages, making it ideal to use when sending data to other sites :) Also it can be translated into a string and back to minimize the size of data that will transfer.
-
+The goal of this exercise is to use a public API (meaning you don't need any permissions to access the data) to grab data and display it on a web page with jQuery.
 
 ## Build A Trivia App With an API
 
@@ -65,3 +32,5 @@ However, there are A BUNCH of fun APIs out there... If you want to forge your ow
 Anyways! I spent way too long looking through those... okay. Ready to build something! If you are just going to proceed with the Trivia App... continue below.
 
 ### Project Setup
+
+thinking... thinking...
