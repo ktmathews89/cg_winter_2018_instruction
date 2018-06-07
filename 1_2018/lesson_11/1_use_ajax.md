@@ -41,7 +41,7 @@ For this project, we are going to build a mini trivia api game. The styles and l
 ... like so:
 
 
-<img src="/images/trivia_api.gif" />
+<img src="../../images/trivia_api.gif" />
 
 
 For this project, we are going to use a Trivia API, called [Open Trivia Database](https://opentdb.com/api_config.php).
