@@ -96,24 +96,35 @@ _css inheritance (In Class)_
 
 ### Lesson 6
 
-**6.0 Learn More Flexbox**
+**6.0 Learn Flexbox**
 
-**6.1 Flexbox Practice**
+content: [Learn Flexbox with Games](1_2018/lesson_6/0_flexbox_learn)
+
+
+**6.1 Flexbox Project**
+
+content: [Flexbox Project with CG Education](1_2018/lesson_6/1_flexbox_project)
 
 
 ### Lesson 7
 
 **7.0 Javascript Learn + Practice - Part 1**
 
+content: [CG Education - Part 1](1_2018/lesson_7/0_cg_ed_1)
+
 **7.1 Javascript Learn More - Part 2**
 
+content: [CG Education - Part 2](1_2018/lesson_7/1_learn_js)
+
 **7.2 Js Extra resources - Learning - Part 3**
+
+content: [CG Education - Part 2](1_2018/lesson_7/2_js_extra_resources)
 
 **7.3 CG Education - Part 2**
 
 description:
 
-content: []()
+content: [CG Education - Part 2](1_2018/lesson_8/3_cg_ed_2)
 
 
 ### Lesson 8
@@ -140,7 +151,7 @@ description: Project javascript challenges to test you on:
 * Objects
 * Object Prototypes
 
-content: [CG Education 3](1_2018/lesson_8/2_cg_ed_3)
+content: [CG Education - Part 3](1_2018/lesson_8/2_cg_ed_3)
 
 
 **8.3 Debugging Javascript (In Class)**
