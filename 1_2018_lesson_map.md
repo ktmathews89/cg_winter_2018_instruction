@@ -111,14 +111,37 @@ _css inheritance (In Class)_
 
 **7.3 CG Education - Part 2**
 
+description:
+
+content: []()
+
 
 ### Lesson 8
 
 **8.0 Problem Solving Framework (In Class)**
 
+description: In class activity to talk about how to approach complex problems that could seem overwhelming
+
+content: [Problem Solving Framework](1_2018/in_class/problem_solving_framework)
+
+
 **8.1 Learning Javascript Objects - Part 4**
 
+description: various content to learn about javascript objects
+
+content: [Learn JS Objects](1_2018/lesson_8/1_js_obj)
+
+
 **8.2 CG Education - Part III**
+
+description: Project javascript challenges to test you on:
+* Anynomous functions
+* passing functions to other functions
+* Objects
+* Object Prototypes
+
+content: [CG Education 3](1_2018/lesson_8/2_cg_ed_3)
+
 
 **8.3 Debugging Javascript (In Class)**
 
@@ -126,16 +149,42 @@ description: In class walk through of how to step through your javascript code a
 
 content: [Debugging JS](1_2018/in_class/debugging_js)
 
+
 ### Lesson 9
 
 **9.1 Learning jQuery**
 
-description:
+description: teach jQuery - selecting, jQuery objects, listening to events
+_TODO: CodeSchool course no longer available for free_
 
-content: []()
+content: [Learn jQuery](1_2018/lesson_9/1_learn_jquery)
 
 **9.2 Paint-a-Box Challenge (jquery challenge)**
 
 description:
 
-content: [Paint-a-Box Challenge](/1_2018/lesson_9/2_paint_box)
+content: [Paint-a-Box Challenge](1_2018/lesson_9/2_paint_box)
+
+
+### Lesson 10
+
+**10.1 CG Education Final**
+
+description: These final CG Education Challenges are to apply jQuery knowledge to a project.
+
+content: [CG Education Final](1_2018/lesson_10/1_cg_ed_final)
+
+
+### Lesson 11
+
+**11.0 Learn AJAX**
+
+description: Content to learn a little about ajax and JSON and why they are used in web applications.
+
+content: [Learn AJAX](1_2018/lesson_11/0_learn_ajax)
+
+**11.1 Use AJAX**
+
+description: Mini project challenge that uses a free Trivia API to retrieve, display a question, and show answer.
+
+content: [Use AJAX](1_2018/lesson_11/1_use_ajax)
